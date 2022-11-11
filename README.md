@@ -38,6 +38,6 @@ I basically learnt how to utilise the margin and padding properties to properly 
 
 ## Author
 
-- Website - [Bimbo Adesoye](https://bimboadesoye.github.io/git_project1/)
-- Frontend Mentor - [@BimboAdesoye](https://www.frontendmentor.io/profile/BimboAdesoye)
-- Twitter - [@Adesoye_bimbola](https://www.twitter.com/Adesoye_bimbola)
+- Name - Bimbo Adesoye
+- Frontend Mentor - [https://www.frontendmentor.io/profile/BimboAdesoye]
+- Twitter - [https://www.twitter.com/Adesoye_bimbola]
