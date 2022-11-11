@@ -1,3 +1,3 @@
-# git_project1
+# Frontend Mentor - QR code component solution
 
-Hello Frontend!
+Hello Frontendme
